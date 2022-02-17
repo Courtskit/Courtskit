@@ -29,10 +29,6 @@
 <br>
 
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ryanemmans&show_icons=true&count_private=true&hide_border=true" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanemmans&hide_border=true&layout=compact" align="center" />
-</div> 
 
 <!-- <h4 align='center'>
  Let's Connect! <br>
