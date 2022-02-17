@@ -1,4 +1,37 @@
-### Hi there 👋
+<h2 align='center'>
+ 👋 Hello, Glad you made it!
+</h2>
+
+<h4 align='center'>
+  I'm a Full Stack Developer, passionate in Front-End Development, UX, and UI.
+</h4>
+<br>
+
+<p align='center'>
+  <img src ="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffff00">
+  <img src = "https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+  <img src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
+  <br>
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Pages-100000?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
+  <br>
+</p>
+<br>
+
+
+<!-- <h4 align='center'>
+ Let's Connect! <br>
+</h4> -->
+
+
+
 
 <!--
 **Courtskit/Courtskit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
