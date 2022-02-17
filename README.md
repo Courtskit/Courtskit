@@ -30,7 +30,6 @@
 
 
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Courtskit&show_icons=true&count_private=true&hide_border=true" align="center" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Courtskit&hide_border=true&layout=compact" align="center" />
 </div> 
 
@@ -41,6 +40,7 @@
  Let's Connect! <br>
 </h4> -->
 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Courtskit&show_icons=true&count_private=true&hide_border=true" align="center" /> -->
 
 
 
