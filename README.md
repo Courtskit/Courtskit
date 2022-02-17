@@ -6,6 +6,7 @@
   I'm a Full Stack Developer, passionate in Front-End Development, UX, and UI.
 </h4>
 <br>
+<br>
 
 <p align='center'>
   <img src ="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffff00">
