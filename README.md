@@ -31,16 +31,16 @@
 
 
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Courtskit&hide_border=true&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Courtskit&hide_border=true&layout=compact" align="center" />
 </div> 
 
 
 
-
+<br>
 <h4 align='center'>
- Let's Connect! <br>
-https://www.linkedin.com/in/courtneycodes/
-
+  Let's Connect! 
+  <br>
+  https://www.linkedin.com/in/courtneycodes/
 </h4>
 
 
@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=Courtskit&show_icons=true&count_private=true&hide_border=true" align="center" />
 -->
