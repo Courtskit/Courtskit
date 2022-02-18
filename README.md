@@ -40,6 +40,7 @@
 <h3 align='center'>
   Let's Connect! 
   <br>
+  <br>
   <a href="https://www.linkedin.com/in/courtneycodes/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="55" alt="linkedin"/></a>
 </h3>
 
