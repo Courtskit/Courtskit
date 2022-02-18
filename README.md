@@ -31,17 +31,17 @@
 
 
 <div align='center'>
-  <img  width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Courtskit&hide_border=true&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Courtskit&hide_border=true&layout=compact" width="300" align="center" />
 </div> 
 
 
 
 <br>
-<h4 align='center'>
+<h3 align='center'>
   Let's Connect! 
   <br>
-  <a href="https://www.linkedin.com/in/courtneycodes/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="50" alt="linkedin"/></a>
-</h4>
+  <a href="https://www.linkedin.com/in/courtneycodes/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="55" alt="linkedin"/></a>
+</h3>
 
 
 <!--
