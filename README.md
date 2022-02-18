@@ -40,7 +40,7 @@
 <h4 align='center'>
   Let's Connect! 
   <br>
-  https://www.linkedin.com/in/courtneycodes/
+  <a href="https://www.linkedin.com/in/courtneycodes/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 </h4>
 
 
