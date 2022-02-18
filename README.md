@@ -37,12 +37,11 @@
 
 
 
-<!-- <h4 align='center'>
+<h4 align='center'>
  Let's Connect! <br>
-</h4> -->
+https://www.linkedin.com/in/courtneycodes/
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Courtskit&show_icons=true&count_private=true&hide_border=true" align="center" /> -->
-
+</h4>
 
 
 <!--
@@ -58,4 +57,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Courtskit&show_icons=true&count_private=true&hide_border=true" align="center" />
 -->
