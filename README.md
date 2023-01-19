@@ -30,12 +30,6 @@
 <br>
 
 
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Courtskit&hide_border=true&layout=compact" width="300" align="center" />
-</div> 
-
-
-
 <br>
 <h3 align='center'>
   Let's Connect! 
