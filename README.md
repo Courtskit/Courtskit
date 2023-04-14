@@ -1,6 +1,8 @@
 <h2 align='center'>
  👋  Hello, Glad you made it!
+<br>
 </h2>
+<br>
 
 <h4 align='center'>
   I'm a Full Stack Developer, passionate in Front-End Development, UX, and UI.
