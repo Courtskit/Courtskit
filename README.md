@@ -9,7 +9,6 @@
 <br>
 
 <p align='center'>
-  <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
@@ -33,7 +32,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Pages-100000?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
-  <br>
 </p>
 <br>
 
